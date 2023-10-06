@@ -3,7 +3,7 @@ name: طلب الميزة
 about: اقترح فكرة لهذا المشروع
 title: ''
 labels: ''
-assignees: ''
+assignees: Kamil123e
 
 ---
 
